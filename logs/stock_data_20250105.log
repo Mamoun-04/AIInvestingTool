@@ -1,0 +1,8 @@
+2025-01-05 12:11:34,623 - INFO - Fetching fresh stock data
+2025-01-05 12:11:35,046 - INFO - Dataset downloaded to: /Users/maamounmraish/.cache/kagglehub/datasets/andrewmvd/sp-500-stocks/versions/1023
+2025-01-05 12:11:35,047 - INFO - Using dataset file: /Users/maamounmraish/.cache/kagglehub/datasets/andrewmvd/sp-500-stocks/versions/1023/sp500_companies.csv
+2025-01-05 12:11:35,062 - INFO - Successfully extracted 500 tickers
+2025-01-05 12:11:44,490 - INFO - Fetching fresh stock data
+2025-01-05 12:11:44,813 - INFO - Dataset downloaded to: /Users/maamounmraish/.cache/kagglehub/datasets/andrewmvd/sp-500-stocks/versions/1023
+2025-01-05 12:11:44,814 - INFO - Using dataset file: /Users/maamounmraish/.cache/kagglehub/datasets/andrewmvd/sp-500-stocks/versions/1023/sp500_companies.csv
+2025-01-05 12:11:44,831 - INFO - Successfully extracted 500 tickers
